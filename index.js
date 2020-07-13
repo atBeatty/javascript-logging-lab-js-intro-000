@@ -1,3 +1,3 @@
 console.error("Oops!");
-console.warning("Something is wrong!")
-console.update("You account is updated!")
+console.log("Something is wrong!");
+console.warn("You account is updated!");
